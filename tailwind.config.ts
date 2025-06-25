@@ -18,7 +18,16 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+        opensans: ["Open Sans", "sans-serif"],
+      },
       colors: {
+        // TV AGP Brand Colors
+        "tv-blue": "#0A1E60",
+        "tv-yellow": "#FBC700",
+        "tv-white": "#FFFFFF",
+
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
